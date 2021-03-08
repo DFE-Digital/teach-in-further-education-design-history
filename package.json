@@ -17,8 +17,10 @@
   "dependencies": {
     "gatsby": "^3.0.1",
     "gatsby-plugin-sass": "^4.0.2",
+    "gatsby-remark-classes": "^1.0.0",
     "gatsby-source-filesystem": "^3.0.0",
     "gatsby-transformer-remark": "^3.0.0",
+    "govuk-frontend": "^3.11.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "sass": "^1.32.8"
