@@ -8,7 +8,7 @@ title: "Sprint 4a"
 
 ##What we’ve done
 
-<p> We designed this prototype in order:
+We designed this prototype in order:
 
 To know what FE teaching is
 To know what FE teaching would be like and if I can see myself doing it
@@ -61,12 +61,18 @@ UR findings - Sprint 4a
 
 ##Screenshots 
 
+**Start page**
 ![startpage](/images/sprint-4a/start-page.png)
 
-Start page
+
 What do you need?
+![what do you need](/images/sprint-4a/What%20do%20you%20need.png)
+
 Is FE for me?
+![me](/images/sprint-4a/Is%20FE%20for%20me.png)
+
 Your career in FE
+![career](/images/sprint-4a/Your%20career%20in%20FE.png)
 
 
 ##Features that may be part of the MVP
@@ -74,8 +80,6 @@ Your career in FE
 A feature we tested was:
 
 ### Do users find a ‘step-by-step’ beneficial?
-
-
 
 To see if a hybrid of GiT and GDS L&F works for users
 To see if patterns and components borrowed from GiT works for our users
