@@ -47,13 +47,19 @@ UR findings - Sprint 4b
 
 ##Screenshots
 
-...
+**Start page with COVID banner**
+![startpage](/images/sprint-4b/...)
 
-...
 
-...
+**Start page without COVID banner**
+![what do you need](/images/sprint-4b/...)
 
-...
+**Teach in Further Education page - collapsed**
+![me](/images/sprint-4b/...)
+
+**Teach in Further Education page - expanded**
+![career](/images/sprint-4b/...)
+
 
 ##Features that may be part of the MVP
 
