@@ -1,6 +1,6 @@
 ---
 slug: "/history/sprint-4a"
-date: "2021-02-9"
+date: "2021-02-09"
 title: "Sprint 4a"
 ---
 
