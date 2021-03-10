@@ -48,17 +48,25 @@ UR findings - Sprint 4b
 ##Screenshots
 
 **Start page with COVID banner**
-![startpage](/images/sprint-4b/...)
+![startpage_with_banner](/images/sprint-4b/Homepage with COVID banner.png)
 
 
 **Start page without COVID banner**
-![what do you need](/images/sprint-4b/...)
+![startpage_without_banner](/images/sprint-4b/Homepage without COVID banner.png)
 
 **Teach in Further Education page - collapsed**
-![me](/images/sprint-4b/...)
+![TiFE_collapsed](/images/sprint-4b/Teach in FE - Collapse.png)
 
 **Teach in Further Education page - expanded**
-![career](/images/sprint-4b/...)
+![TiFE_expanded_1](/images/sprint-4b/Teach in FE - Expanded Accordion #1.png)
+
+![TiFE_expanded_2](/images/sprint-4b/Teach in FE - Expanded Accordion #2.png)
+
+![TiFE_expanded_3](/images/sprint-4b/Teach in FE - Expanded Accordion #3.png)
+
+![TiFE_expanded_4](/images/sprint-4b/Teach in FE - Expanded Accordion #4.png)
+
+![TiFE_expanded_5](/images/sprint-4b/Teach in FE - Expanded Accordion #5.png)
 
 
 ##Features that may be part of the MVP
