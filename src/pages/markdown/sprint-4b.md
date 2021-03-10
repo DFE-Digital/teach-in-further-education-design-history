@@ -48,25 +48,25 @@ UR findings - Sprint 4b
 ##Screenshots
 
 **Start page with COVID banner**
-![startpage_with_banner](/images/sprint-4b/Homepage with COVID banner.png)
+![startpage_with_banner](/images/sprint-4b/Homepage%20with%20COVID%20banner.png)
 
 
 **Start page without COVID banner**
-![startpage_without_banner](/images/sprint-4b/Homepage without COVID banner.png)
+![startpage_without_banner](/images/sprint-4b/Homepage%20without%20COVID%20banner.png)
 
 **Teach in Further Education page - collapsed**
-![TiFE_collapsed](/images/sprint-4b/Teach in FE - Collapse.png)
+![TiFE_collapsed](/images/sprint-4b/Teach%20in%20FE%20-%20Collapse.png)
 
 **Teach in Further Education page - expanded**
-![TiFE_expanded_1](/images/sprint-4b/Teach in FE - Expanded Accordion #1.png)
+![TiFE_expanded_1](/images/sprint-4b/Teach%20in%20FE%20-%20Expanded%20Accordion%20#1.png)
 
-![TiFE_expanded_2](/images/sprint-4b/Teach in FE - Expanded Accordion #2.png)
+![TiFE_expanded_2](/images/sprint-4b/Teach%20in%20FE%20-%20Expanded%20Accordion%20#2.png)
 
-![TiFE_expanded_3](/images/sprint-4b/Teach in FE - Expanded Accordion #3.png)
+![TiFE_expanded_3](/images/sprint-4b/Teach%20in%20FE%20-%20Expanded%20Accordion%20#3.png)
 
-![TiFE_expanded_4](/images/sprint-4b/Teach in FE - Expanded Accordion #4.png)
+![TiFE_expanded_4](/images/sprint-4b/Teach%20in%20FE%20-%20Expanded%20Accordion%20#4.png)
 
-![TiFE_expanded_5](/images/sprint-4b/Teach in FE - Expanded Accordion #5.png)
+![TiFE_expanded_5](/images/sprint-4b/Teach%20in%20FE%20-%20Expanded%20Accordion%20#5.png)
 
 
 ##Features that may be part of the MVP
