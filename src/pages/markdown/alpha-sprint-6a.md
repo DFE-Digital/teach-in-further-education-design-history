@@ -1,5 +1,5 @@
 ---
-slug: "/history/sprint-6a"
+slug: "/history/alpha-sprint-6a"
 date: "2021-03-07"
 title: "Sprint 6a"
 ---
