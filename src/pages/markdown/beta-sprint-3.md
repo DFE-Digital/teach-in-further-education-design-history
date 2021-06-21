@@ -53,20 +53,20 @@ https://drive.google.com/file/d/1vxB4UZJ7EippcURvOu3JWJ9ZWKe4F0jN/view?usp=shari
 
 ##Screenshots
 
-**...**
-![...](/images/beta-sprint-3/....png)
+**Is FE for me? Landing page**
+![Is_FE_for_me](/images/beta-sprint-3/Is_FE_for_me.png)
 
-**...**
-![...](/images/beta-sprint-3/....png)
+**Is FE for me? Accordion 1**
+![Is_FE_for_me_1](/images/beta-sprint-3/Is_FE_for_me_1.png)
 
-**...**
-![...](/images/beta-sprint-3/....png)
+**Is FE for me? Accordion 2**
+![Is_FE_for_me_2](/images/beta-sprint-3/Is_FE_for_me_2.png)
 
-**...**
-![...](/images/beta-sprint-3/....png)
+**Is FE for me? Accordion 3**
+![Is_FE_for_me_3](/images/beta-sprint-3/Is_FE_for_me_3.png)
 
-**...**
-![...](/images/beta-sprint-3/....png)
+**Is FE for me? Accordion 4**
+![Is_FE_for_me_4](/images/beta-sprint-3/Is_FE_for_me_4.png)
 
-**...**
-![...](/images/beta-sprint-3/....png)
+**Qualifications Nav**
+![Nav](/images/beta-sprint-3/Nav.png)
