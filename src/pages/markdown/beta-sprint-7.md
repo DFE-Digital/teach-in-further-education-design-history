@@ -59,7 +59,7 @@ https://docs.google.com/presentation/d/1bfsa6dRp9vw35HrvH2f5CBOF3mNH1KoX/edit?us
 ![exp-and-quals](/images/beta-sprint-7/Sprint-7-Beta-Experience-and-qualifications.png)
 
 **Results page - DET and PCET**
-![results-page-DET-PCET](/images/beta-sprint-7/Sprint-7-Beta-Results-DET-PCET.png)
+![results-page-DET-PCET](/images/beta-sprint-7/Sprint-7-Beta-Results-DET-PCET.jpg)
 
 **Financial support to train**
 ![financial-support-to-train](/images/beta-sprint-7/Sprint-7-Beta-Financial-support-to-train.png)
@@ -68,4 +68,4 @@ https://docs.google.com/presentation/d/1bfsa6dRp9vw35HrvH2f5CBOF3mNH1KoX/edit?us
 ![find-a-further-education-teaching-job](/images/beta-sprint-7/Sprint-7-Beta-Find-a-further-education-teaching-job.png)
 
 **Help and advice**
-![help-and-advice](/images/beta-sprint-7/Sprint-7-Beta-Help-and-advice.png)
+![help-and-advice](/images/beta-sprint-7/Sprint-7-Beta-Help-and-advice.jpg)
