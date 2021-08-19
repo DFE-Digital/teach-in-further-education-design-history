@@ -1,7 +1,7 @@
 ---
 slug: "/history/alpha-sprint-5a"
-date: "2021-02-23"
-title: "Sprint 5a"
+date: "2021-02-22"
+title: "Alpha - Sprint 5a"
 ---
 
 #Interactive Wireframe Research Tool - Sprint 5a
