@@ -1,7 +1,7 @@
 ---
 slug: "/history/alpha-sprint-3"
 date: "2021-01-25"
-title: "Sprint 3"
+title: "Alpha - Sprint 3"
 ---
 
 #Interactive Wireframe Research Tool - Sprint 3
