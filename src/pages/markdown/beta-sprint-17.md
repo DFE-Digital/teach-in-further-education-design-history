@@ -20,7 +20,29 @@ Sprint Objectives
 
 ##Website pages
 
+**Landing Page**
+![landing-page](/images/beta-sprint-17/TiFE_Beta_17_Home.jpg)
 
+**Where to start in FE**
+![where-to-start-in-FE](/images/beta-sprint-17/TiFE_Beta_17_where_to_start.jpg)
+
+**What you could teach - collapsed**
+![what-you-could-teach-collapsed](/images/beta-sprint-17/TiFE_Beta_17_what_you_could_teach_collapsed.jpg)
+
+**What you could teach - expanded**
+![what-you-could-teach-expanded](/images/beta-sprint-17/TiFE_Beta_17_what_you_could_teach_expanded.jpg)
+
+**Train on the job**
+![train-on-the-job](/images/beta-sprint-17/TiFE_Beta_17_train_on_the_job.jpg)
+
+**Train in your own time**
+![train-in-your-own-time](/images/beta-sprint-17/TiFE_Beta_17_train_in_your_own_time.jpg)
+
+**Find an FE teaching job**
+![find-an-FE-teaching-job](/images/beta-sprint-17/TiFE_Beta_17_find_a_job.jpg)
+
+**Help and advice**
+![help-and-advice](/images/beta-sprint-17/TiFE_Beta_17_help_and_advice.jpg)
 
 ##User research
 
