@@ -14,12 +14,6 @@ Sprint Objectives
 - Test out in-service & pre-service journeys, including users navigation and understanding
 - Test “Colleges and Training Providers” wording
 
-
-##Prototype link
-
-Desktop - ...
-Mobile - ...
-
 ##User research
 
 Some of the insights we attained are:
