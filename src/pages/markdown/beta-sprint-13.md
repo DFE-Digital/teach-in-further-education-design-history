@@ -17,11 +17,6 @@ Sprint Objectives
 - Check understanding of “Colleges & Training Providers”
 - Check user understanding of subject agnostic training qualifications
 
-##Prototype link
-
-Desktop - ...
-Mobile - ...
-
 ##User research
 
 Some of the insights we attained are:
