@@ -15,11 +15,6 @@ Sprint Objectives
 - Test cut down Guide/Where to Start content
 - Test revised main nav (desktop)
 
-##Prototype link
-
-Desktop - ...
-Mobile - ...
-
 ##User research
 
 Some of the insights we attained are:
