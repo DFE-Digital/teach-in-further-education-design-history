@@ -19,10 +19,6 @@ We also looked into other services such as Get into Teaching and their personas 
 
 We then conducted research with a further 4 users to compare our prototype with National Careers Service and Get into Teaching to glean more information about the content and the GDS look and feel. 
 
-Link to this version of the prototype: 
-
-...
-
 ##User research
 
 Some of the insights we attained are:
