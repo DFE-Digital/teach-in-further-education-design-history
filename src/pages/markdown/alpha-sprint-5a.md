@@ -20,11 +20,6 @@ Routes into to better understand next steps for FE users. So far we have spent m
 
 The 'hopping off point’ to opportunities is a critical part of the overall journey.
 
-
-Link to this version of the prototype: 
-
-...
-
 ##User research
 
 Some of the insights we attained are:
