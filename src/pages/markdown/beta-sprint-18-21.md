@@ -1,6 +1,6 @@
 ---
 slug: "/history/beta-sprint-18-21"
-date: "2022-1-17 - 2022-2-07"
+date: "2022-1-17 to 2022-2-07"
 title: "Beta - Sprint 18 - 21"
 ---
 

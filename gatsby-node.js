@@ -33,15 +33,3 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
         })
     })
 };
-
-exports.createSchemaCustomization = ({ actions }) => {
-  actions.createTypes(`
-    type MarkdownRemarkFrontmatter {
-      date: Date @dateformat
-    }
-
-    type MarkdownRemark implements Node {
-      frontmatter: MarkdownRemarkFrontmatter
-    }
-  `);
-};
