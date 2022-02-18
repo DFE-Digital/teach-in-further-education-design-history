@@ -1,6 +1,6 @@
 ---
 slug: "/history/beta-sprint-14"
-date: "2021-11-4"
+date: "2021-11-04"
 title: "Beta - Sprint 14"
 ---
 
