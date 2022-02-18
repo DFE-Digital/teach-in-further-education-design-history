@@ -21,10 +21,11 @@ export default function HTML(props) {
         </head>
         <body {...props.bodyAttributes} className="govuk-template__body ">
         {props.preBodyComponents}
-        <script>
-            document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');
-
-        </script>
+        <script
+            dangerouslySetInnerHTML={{
+                __html: 'document.body.className = ((document.body.className) ? document.body.className + "js-enabled" : "js-enabled");'
+            }}
+        />
 
         <a href="#main-content" className="govuk-skip-link">Skip to main content</a>
 
